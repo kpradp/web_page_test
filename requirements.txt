@@ -150,7 +150,7 @@ python-ntlm-fixed == 1.0
 python-plugin-sdk == 6.0.1
 
 # web_page_test/.venv/lib/python3.9/site-packages/jupyter_core/paths.py: 388
-pywin32 == 300
+# pywin32 == 300
 
 # web_page_test/.venv/lib/python3.9/site-packages/pigar/tests/imports_example/example1.py: 45
 rmctl == 0.1.1
